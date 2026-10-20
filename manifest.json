@@ -1,0 +1,18 @@
+{
+  "name": "디미고 면접 마스터",
+  "short_name": "면접 마스터",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#172d59",
+  "description": "디미고 e비즈니스과 면접 준비, 답변 노트, 면접관 대화방, 일일 정리",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
